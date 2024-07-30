@@ -14,5 +14,10 @@ This project provides a solution to the Kaggle open community challenge on proba
 
 ### **2. LightGBM**
 
-![image](https://github.com/user-attachments/assets/960a089d-92a5-4abb-8a98-22a48e12ae15)
+![image](https://github.com/user-attachments/assets/afc9e851-8c05-4b04-986b-79dc1da08539)
 
+## **Methodology**
+### **Exploratory Data-Analysis**
+![image](https://github.com/user-attachments/assets/c91aa074-fc12-47fa-b4fa-e8e4b2fce503)
+
+The auto-correlation chart shows that the 
